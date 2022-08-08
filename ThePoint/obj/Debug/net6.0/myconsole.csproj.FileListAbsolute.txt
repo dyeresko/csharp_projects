@@ -1,0 +1,15 @@
+C:\Users\Denis\Desktop\csprojects\ThePoint\bin\Debug\net6.0\myconsole.exe
+C:\Users\Denis\Desktop\csprojects\ThePoint\bin\Debug\net6.0\myconsole.deps.json
+C:\Users\Denis\Desktop\csprojects\ThePoint\bin\Debug\net6.0\myconsole.runtimeconfig.json
+C:\Users\Denis\Desktop\csprojects\ThePoint\bin\Debug\net6.0\myconsole.dll
+C:\Users\Denis\Desktop\csprojects\ThePoint\bin\Debug\net6.0\myconsole.pdb
+C:\Users\Denis\Desktop\csprojects\ThePoint\obj\Debug\net6.0\myconsole.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\csprojects\ThePoint\obj\Debug\net6.0\myconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\csprojects\ThePoint\obj\Debug\net6.0\myconsole.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\csprojects\ThePoint\obj\Debug\net6.0\myconsole.AssemblyInfo.cs
+C:\Users\Denis\Desktop\csprojects\ThePoint\obj\Debug\net6.0\myconsole.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\csprojects\ThePoint\obj\Debug\net6.0\myconsole.dll
+C:\Users\Denis\Desktop\csprojects\ThePoint\obj\Debug\net6.0\refint\myconsole.dll
+C:\Users\Denis\Desktop\csprojects\ThePoint\obj\Debug\net6.0\myconsole.pdb
+C:\Users\Denis\Desktop\csprojects\ThePoint\obj\Debug\net6.0\myconsole.genruntimeconfig.cache
+C:\Users\Denis\Desktop\csprojects\ThePoint\obj\Debug\net6.0\ref\myconsole.dll
